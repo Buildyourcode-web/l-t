@@ -1,0 +1,13 @@
+names:
+- fire
+- smoke
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fire-and-smoke-detection-hiwia-1vzaj
+  url: https://universe.roboflow.com/vicky-vishnu/fire-and-smoke-detection-hiwia-1vzaj/dataset/1
+  version: 1
+  workspace: vicky-vishnu
+test: ../test/images
+train: ../train/images
+val: ../valid/images
